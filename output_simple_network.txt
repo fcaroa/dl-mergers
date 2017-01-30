@@ -1,0 +1,235 @@
+10_1079_f160_x_psf_flux.fits / mass ratio 0.356205041048 (n=1)
+10_1079_f160_y_psf_flux.fits / mass ratio 0.356205041048 (n=2)
+10_1079_f160_z_psf_flux.fits / mass ratio 0.356205041048 (n=3)
+10_12256_f160_x_psf_flux.fits / mass ratio 0.351081296155 (n=4)
+10_12256_f160_y_psf_flux.fits / mass ratio 0.351081296155 (n=5)
+10_12256_f160_z_psf_flux.fits / mass ratio 0.351081296155 (n=6)
+10_1300_f160_x_psf_flux.fits / mass ratio 0.322252392638 (n=7)
+10_1300_f160_y_psf_flux.fits / mass ratio 0.322252392638 (n=8)
+10_1300_f160_z_psf_flux.fits / mass ratio 0.322252392638 (n=9)
+10_59675_f160_x_psf_flux.fits / mass ratio 0.429725222065 (n=10)
+10_59675_f160_y_psf_flux.fits / mass ratio 0.429725222065 (n=11)
+10_59675_f160_z_psf_flux.fits / mass ratio 0.429725222065 (n=12)
+10_66760_f160_x_psf_flux.fits / mass ratio 0.351055057776 (n=13)
+10_66760_f160_y_psf_flux.fits / mass ratio 0.351055057776 (n=14)
+10_66760_f160_z_psf_flux.fits / mass ratio 0.351055057776 (n=15)
+10_67987_f160_x_psf_flux.fits / mass ratio 0.334053591678 (n=16)
+10_67987_f160_y_psf_flux.fits / mass ratio 0.334053591678 (n=17)
+10_67987_f160_z_psf_flux.fits / mass ratio 0.334053591678 (n=18)
+11_16071_f160_x_psf_flux.fits / mass ratio 0.324971839243 (n=19)
+11_16071_f160_y_psf_flux.fits / mass ratio 0.324971839243 (n=20)
+11_16071_f160_z_psf_flux.fits / mass ratio 0.324971839243 (n=21)
+11_20590_f160_x_psf_flux.fits / mass ratio 0.401985239995 (n=22)
+11_20590_f160_y_psf_flux.fits / mass ratio 0.401985239995 (n=23)
+11_20590_f160_z_psf_flux.fits / mass ratio 0.401985239995 (n=24)
+11_45018_f160_x_psf_flux.fits / mass ratio 0.310750831469 (n=25)
+11_45018_f160_y_psf_flux.fits / mass ratio 0.310750831469 (n=26)
+11_45018_f160_z_psf_flux.fits / mass ratio 0.310750831469 (n=27)
+11_48529_f160_x_psf_flux.fits / mass ratio 0.315801831739 (n=28)
+11_48529_f160_y_psf_flux.fits / mass ratio 0.315801831739 (n=29)
+11_48529_f160_z_psf_flux.fits / mass ratio 0.315801831739 (n=30)
+11_5652_f160_x_psf_flux.fits / mass ratio 0.316095807023 (n=31)
+11_5652_f160_y_psf_flux.fits / mass ratio 0.316095807023 (n=32)
+11_5652_f160_z_psf_flux.fits / mass ratio 0.316095807023 (n=33)
+12_751_f160_x_psf_flux.fits / mass ratio 0.301809990594 (n=34)
+12_751_f160_y_psf_flux.fits / mass ratio 0.301809990594 (n=35)
+12_751_f160_z_psf_flux.fits / mass ratio 0.301809990594 (n=36)
+13_11533_f160_x_psf_flux.fits / mass ratio 0.373494488055 (n=37)
+13_11533_f160_y_psf_flux.fits / mass ratio 0.373494488055 (n=38)
+13_11533_f160_z_psf_flux.fits / mass ratio 0.373494488055 (n=39)
+13_12421_f160_x_psf_flux.fits / mass ratio 0.353409960939 (n=40)
+13_12421_f160_y_psf_flux.fits / mass ratio 0.353409960939 (n=41)
+13_12421_f160_z_psf_flux.fits / mass ratio 0.353409960939 (n=42)
+13_19086_f160_x_psf_flux.fits / mass ratio 0.348167024215 (n=43)
+13_19086_f160_y_psf_flux.fits / mass ratio 0.348167024215 (n=44)
+13_19086_f160_z_psf_flux.fits / mass ratio 0.348167024215 (n=45)
+13_19167_f160_x_psf_flux.fits / mass ratio 0.350276441424 (n=46)
+13_19167_f160_y_psf_flux.fits / mass ratio 0.350276441424 (n=47)
+13_19167_f160_z_psf_flux.fits / mass ratio 0.350276441424 (n=48)
+13_57484_f160_x_psf_flux.fits / mass ratio 0.359613511982 (n=49)
+13_57484_f160_y_psf_flux.fits / mass ratio 0.359613511982 (n=50)
+13_57484_f160_z_psf_flux.fits / mass ratio 0.359613511982 (n=51)
+13_66088_f160_x_psf_flux.fits / mass ratio 0.353492310108 (n=52)
+13_66088_f160_y_psf_flux.fits / mass ratio 0.353492310108 (n=53)
+13_66088_f160_z_psf_flux.fits / mass ratio 0.353492310108 (n=54)
+14_11801_f160_x_psf_flux.fits / mass ratio 0.391692552862 (n=55)
+14_11801_f160_y_psf_flux.fits / mass ratio 0.391692552862 (n=56)
+14_11801_f160_z_psf_flux.fits / mass ratio 0.391692552862 (n=57)
+14_17636_f160_x_psf_flux.fits / mass ratio 0.420446540389 (n=58)
+14_17636_f160_y_psf_flux.fits / mass ratio 0.420446540389 (n=59)
+14_17636_f160_z_psf_flux.fits / mass ratio 0.420446540389 (n=60)
+14_23091_f160_x_psf_flux.fits / mass ratio 0.351823964209 (n=61)
+14_23091_f160_y_psf_flux.fits / mass ratio 0.351823964209 (n=62)
+14_23091_f160_z_psf_flux.fits / mass ratio 0.351823964209 (n=63)
+14_58561_f160_x_psf_flux.fits / mass ratio 0.330602003954 (n=64)
+14_58561_f160_y_psf_flux.fits / mass ratio 0.330602003954 (n=65)
+14_58561_f160_z_psf_flux.fits / mass ratio 0.330602003954 (n=66)
+14_71263_f160_x_psf_flux.fits / mass ratio 0.316951309744 (n=67)
+14_71263_f160_y_psf_flux.fits / mass ratio 0.316951309744 (n=68)
+14_71263_f160_z_psf_flux.fits / mass ratio 0.316951309744 (n=69)
+15_10332_f160_x_psf_flux.fits / mass ratio 0.331620847319 (n=70)
+15_10332_f160_y_psf_flux.fits / mass ratio 0.331620847319 (n=71)
+15_10332_f160_z_psf_flux.fits / mass ratio 0.331620847319 (n=72)
+15_10352_f160_x_psf_flux.fits / mass ratio 0.3085741761 (n=73)
+15_10352_f160_y_psf_flux.fits / mass ratio 0.3085741761 (n=74)
+15_10352_f160_z_psf_flux.fits / mass ratio 0.3085741761 (n=75)
+15_1611_f160_x_psf_flux.fits / mass ratio 0.389674064034 (n=76)
+15_1611_f160_y_psf_flux.fits / mass ratio 0.389674064034 (n=77)
+15_1611_f160_z_psf_flux.fits / mass ratio 0.389674064034 (n=78)
+15_20673_f160_x_psf_flux.fits / mass ratio 0.328893209653 (n=79)
+15_20673_f160_y_psf_flux.fits / mass ratio 0.328893209653 (n=80)
+15_20673_f160_z_psf_flux.fits / mass ratio 0.328893209653 (n=81)
+15_3804_f160_x_psf_flux.fits / mass ratio 0.325935851001 (n=82)
+15_3804_f160_y_psf_flux.fits / mass ratio 0.325935851001 (n=83)
+15_3804_f160_z_psf_flux.fits / mass ratio 0.325935851001 (n=84)
+15_455_f160_x_psf_flux.fits / mass ratio 0.352710395281 (n=85)
+15_455_f160_y_psf_flux.fits / mass ratio 0.352710395281 (n=86)
+15_455_f160_z_psf_flux.fits / mass ratio 0.352710395281 (n=87)
+16_11718_f160_x_psf_flux.fits / mass ratio 0.381298515013 (n=88)
+16_11718_f160_y_psf_flux.fits / mass ratio 0.381298515013 (n=89)
+16_11718_f160_z_psf_flux.fits / mass ratio 0.381298515013 (n=90)
+16_64030_f160_x_psf_flux.fits / mass ratio 0.396559236762 (n=91)
+16_64030_f160_y_psf_flux.fits / mass ratio 0.396559236762 (n=92)
+16_64030_f160_z_psf_flux.fits / mass ratio 0.396559236762 (n=93)
+16_8990_f160_x_psf_flux.fits / mass ratio 0.310419175112 (n=94)
+16_8990_f160_y_psf_flux.fits / mass ratio 0.310419175112 (n=95)
+16_8990_f160_z_psf_flux.fits / mass ratio 0.310419175112 (n=96)
+17_115197_f160_x_psf_flux.fits / mass ratio 0.371093982197 (n=97)
+17_115197_f160_y_psf_flux.fits / mass ratio 0.371093982197 (n=98)
+17_115197_f160_z_psf_flux.fits / mass ratio 0.371093982197 (n=99)
+17_13205_f160_x_psf_flux.fits / mass ratio 0.375683384505 (n=100)
+17_13205_f160_y_psf_flux.fits / mass ratio 0.375683384505 (n=101)
+17_13205_f160_z_psf_flux.fits / mass ratio 0.375683384505 (n=102)
+17_1687_f160_x_psf_flux.fits / mass ratio 0.406307833202 (n=103)
+17_1687_f160_y_psf_flux.fits / mass ratio 0.406307833202 (n=104)
+17_1687_f160_z_psf_flux.fits / mass ratio 0.406307833202 (n=105)
+17_40928_f160_x_psf_flux.fits / mass ratio 0.478032369522 (n=106)
+17_40928_f160_y_psf_flux.fits / mass ratio 0.478032369522 (n=107)
+17_40928_f160_z_psf_flux.fits / mass ratio 0.478032369522 (n=108)
+17_4330_f160_x_psf_flux.fits / mass ratio 0.353375092242 (n=109)
+17_4330_f160_y_psf_flux.fits / mass ratio 0.353375092242 (n=110)
+17_4330_f160_z_psf_flux.fits / mass ratio 0.353375092242 (n=111)
+17_4369_f160_x_psf_flux.fits / mass ratio 0.315616045573 (n=112)
+17_4369_f160_y_psf_flux.fits / mass ratio 0.315616045573 (n=113)
+17_4369_f160_z_psf_flux.fits / mass ratio 0.315616045573 (n=114)
+17_53705_f160_x_psf_flux.fits / mass ratio 0.491940718891 (n=115)
+17_53705_f160_y_psf_flux.fits / mass ratio 0.491940718891 (n=116)
+17_53705_f160_z_psf_flux.fits / mass ratio 0.491940718891 (n=117)
+17_67618_f160_x_psf_flux.fits / mass ratio 0.332109825655 (n=118)
+17_67618_f160_y_psf_flux.fits / mass ratio 0.332109825655 (n=119)
+17_67618_f160_z_psf_flux.fits / mass ratio 0.332109825655 (n=120)
+18_10144_f160_x_psf_flux.fits / mass ratio 0.328496771977 (n=121)
+18_10144_f160_y_psf_flux.fits / mass ratio 0.328496771977 (n=122)
+18_10144_f160_z_psf_flux.fits / mass ratio 0.328496771977 (n=123)
+18_113_f160_x_psf_flux.fits / mass ratio 0.40427140489 (n=124)
+18_113_f160_y_psf_flux.fits / mass ratio 0.40427140489 (n=125)
+18_113_f160_z_psf_flux.fits / mass ratio 0.40427140489 (n=126)
+18_12825_f160_x_psf_flux.fits / mass ratio 0.30783935716 (n=127)
+18_12825_f160_y_psf_flux.fits / mass ratio 0.30783935716 (n=128)
+18_12825_f160_z_psf_flux.fits / mass ratio 0.30783935716 (n=129)
+18_23524_f160_x_psf_flux.fits / mass ratio 0.31426204539 (n=130)
+18_23524_f160_y_psf_flux.fits / mass ratio 0.31426204539 (n=131)
+18_23524_f160_z_psf_flux.fits / mass ratio 0.31426204539 (n=132)
+19_77393_f160_x_psf_flux.fits / mass ratio 0.463462223752 (n=133)
+19_77393_f160_y_psf_flux.fits / mass ratio 0.463462223752 (n=134)
+19_77393_f160_z_psf_flux.fits / mass ratio 0.463462223752 (n=135)
+20_10656_f160_x_psf_flux.fits / mass ratio 0.346866601893 (n=136)
+20_10656_f160_y_psf_flux.fits / mass ratio 0.346866601893 (n=137)
+20_10656_f160_z_psf_flux.fits / mass ratio 0.346866601893 (n=138)
+20_12395_f160_x_psf_flux.fits / mass ratio 0.410155021275 (n=139)
+20_12395_f160_y_psf_flux.fits / mass ratio 0.410155021275 (n=140)
+20_12395_f160_z_psf_flux.fits / mass ratio 0.410155021275 (n=141)
+20_49396_f160_x_psf_flux.fits / mass ratio 0.351519353505 (n=142)
+20_49396_f160_y_psf_flux.fits / mass ratio 0.351519353505 (n=143)
+20_49396_f160_z_psf_flux.fits / mass ratio 0.351519353505 (n=144)
+20_58448_f160_x_psf_flux.fits / mass ratio 0.386850323601 (n=145)
+20_58448_f160_y_psf_flux.fits / mass ratio 0.386850323601 (n=146)
+20_58448_f160_z_psf_flux.fits / mass ratio 0.386850323601 (n=147)
+20_7485_f160_x_psf_flux.fits / mass ratio 0.31131769287 (n=148)
+20_7485_f160_y_psf_flux.fits / mass ratio 0.31131769287 (n=149)
+20_7485_f160_z_psf_flux.fits / mass ratio 0.31131769287 (n=150)
+21_1063_f160_x_psf_flux.fits / mass ratio 0.368623770255 (n=151)
+21_1063_f160_y_psf_flux.fits / mass ratio 0.368623770255 (n=152)
+21_1063_f160_z_psf_flux.fits / mass ratio 0.368623770255 (n=153)
+21_12237_f160_x_psf_flux.fits / mass ratio 0.327835883595 (n=154)
+21_12237_f160_y_psf_flux.fits / mass ratio 0.327835883595 (n=155)
+21_12237_f160_z_psf_flux.fits / mass ratio 0.327835883595 (n=156)
+21_24703_f160_x_psf_flux.fits / mass ratio 0.339157330985 (n=157)
+21_24703_f160_y_psf_flux.fits / mass ratio 0.339157330985 (n=158)
+21_24703_f160_z_psf_flux.fits / mass ratio 0.339157330985 (n=159)
+21_2538_f160_x_psf_flux.fits / mass ratio 0.300728513427 (n=160)
+21_2538_f160_y_psf_flux.fits / mass ratio 0.300728513427 (n=161)
+21_2538_f160_z_psf_flux.fits / mass ratio 0.300728513427 (n=162)
+21_30240_f160_x_psf_flux.fits / mass ratio 0.33539893537 (n=163)
+21_30240_f160_y_psf_flux.fits / mass ratio 0.33539893537 (n=164)
+21_30240_f160_z_psf_flux.fits / mass ratio 0.33539893537 (n=165)
+21_3663_f160_x_psf_flux.fits / mass ratio 0.372738138353 (n=166)
+21_3663_f160_y_psf_flux.fits / mass ratio 0.372738138353 (n=167)
+21_3663_f160_z_psf_flux.fits / mass ratio 0.372738138353 (n=168)
+21_46170_f160_x_psf_flux.fits / mass ratio 0.461984834959 (n=169)
+21_46170_f160_y_psf_flux.fits / mass ratio 0.461984834959 (n=170)
+21_46170_f160_z_psf_flux.fits / mass ratio 0.461984834959 (n=171)
+21_5985_f160_x_psf_flux.fits / mass ratio 0.340990272142 (n=172)
+21_5985_f160_y_psf_flux.fits / mass ratio 0.340990272142 (n=173)
+21_5985_f160_z_psf_flux.fits / mass ratio 0.340990272142 (n=174)
+21_7197_f160_x_psf_flux.fits / mass ratio 0.368484240971 (n=175)
+21_7197_f160_y_psf_flux.fits / mass ratio 0.368484240971 (n=176)
+21_7197_f160_z_psf_flux.fits / mass ratio 0.368484240971 (n=177)
+21_73982_f160_x_psf_flux.fits / mass ratio 0.356799079824 (n=178)
+21_73982_f160_y_psf_flux.fits / mass ratio 0.356799079824 (n=179)
+21_73982_f160_z_psf_flux.fits / mass ratio 0.356799079824 (n=180)
+22_23473_f160_x_psf_flux.fits / mass ratio 0.351877781451 (n=181)
+22_23473_f160_y_psf_flux.fits / mass ratio 0.351877781451 (n=182)
+22_23473_f160_z_psf_flux.fits / mass ratio 0.351877781451 (n=183)
+22_27575_f160_x_psf_flux.fits / mass ratio 0.349535354638 (n=184)
+22_27575_f160_y_psf_flux.fits / mass ratio 0.349535354638 (n=185)
+22_27575_f160_z_psf_flux.fits / mass ratio 0.349535354638 (n=186)
+22_298_f160_x_psf_flux.fits / mass ratio 0.432642904283 (n=187)
+22_298_f160_y_psf_flux.fits / mass ratio 0.432642904283 (n=188)
+22_298_f160_z_psf_flux.fits / mass ratio 0.432642904283 (n=189)
+22_4613_fUsing Theano backend.
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5004)
+160_x_psf_flux.fits / mass ratio 0.303678865474 (n=190)
+22_4613_f160_y_psf_flux.fits / mass ratio 0.303678865474 (n=191)
+22_4613_f160_z_psf_flux.fits / mass ratio 0.303678865474 (n=192)
+22_48826_f160_x_psf_flux.fits / mass ratio 0.34006569859 (n=193)
+22_48826_f160_y_psf_flux.fits / mass ratio 0.34006569859 (n=194)
+22_48826_f160_z_psf_flux.fits / mass ratio 0.34006569859 (n=195)
+22_8429_f160_x_psf_flux.fits / mass ratio 0.36003805001 (n=196)
+22_8429_f160_y_psf_flux.fits / mass ratio 0.36003805001 (n=197)
+22_8429_f160_z_psf_flux.fits / mass ratio 0.36003805001 (n=198)
+23_139230_f160_x_psf_flux.fits / mass ratio 0.432502317143 (n=199)
+23_139230_f160_y_psf_flux.fits / mass ratio 0.432502317143 (n=200)
+(160, 128, 128)
+(41, 128, 128)
+(160,)
+(41,)
+Test name is: batch_size=64-nb_epoch=10-augm=False-lr=0.010000-decay=0.000000-mom=0.900000-depth=16-nb_dense=64
+(128, 128)
+Not using data augmentation.
+Train on 160 samples, validate on 41 samples
+Epoch 1/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.3534128/160 [=======================>......] - ETA: 0s - loss: 0.3442160/160 [==============================] - 0s - loss: 0.3292 - val_loss: 0.1240
+Epoch 2/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.1013128/160 [=======================>......] - ETA: 0s - loss: 0.2033160/160 [==============================] - 0s - loss: 0.1974 - val_loss: 0.1156
+Epoch 3/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.1044128/160 [=======================>......] - ETA: 0s - loss: 0.0853160/160 [==============================] - 0s - loss: 0.0835 - val_loss: 0.0393
+Epoch 4/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0540128/160 [=======================>......] - ETA: 0s - loss: 0.0465160/160 [==============================] - 0s - loss: 0.0476 - val_loss: 0.0548
+Epoch 5/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0425128/160 [=======================>......] - ETA: 0s - loss: 0.0425160/160 [==============================] - 0s - loss: 0.0399 - val_loss: 0.0512
+Epoch 6/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0439128/160 [=======================>......] - ETA: 0s - loss: 0.0363160/160 [==============================] - 0s - loss: 0.0373 - val_loss: 0.0531
+Epoch 7/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0306128/160 [=======================>......] - ETA: 0s - loss: 0.0367160/160 [==============================] - 0s - loss: 0.0354 - val_loss: 0.0456
+Epoch 8/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0398128/160 [=======================>......] - ETA: 0s - loss: 0.0365160/160 [==============================] - 0s - loss: 0.0346 - val_loss: 0.0397
+Epoch 9/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0337128/160 [=======================>......] - ETA: 0s - loss: 0.0318160/160 [==============================] - 0s - loss: 0.0340 - val_loss: 0.0405
+Epoch 10/10
+ 64/160 [===========>..................] - ETA: 0s - loss: 0.0345128/160 [=======================>......] - ETA: 0s - loss: 0.0341160/160 [==============================] - 0s - loss: 0.0352 - val_loss: 0.0393/home/fernando/.conda/envs/keras_fernando/lib/python2.7/site-packages/matplotlib/axes/_axes.py:519: UserWarning: No labelled objects found. Use label='...' kwarg on individual plots.
+  warnings.warn("No labelled objects found. "
+
+Saving model...
+Best validation loss: 0.039
+at: 2
